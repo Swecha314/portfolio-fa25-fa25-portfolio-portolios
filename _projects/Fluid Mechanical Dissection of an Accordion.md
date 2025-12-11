@@ -5,4 +5,4 @@ description: Fluid Mechanical Dissection of an Accordion
 technologies: ANSYS, MATLAB, Fusion 360
 image: assets/images/accordion.jpg
 ---
-Project Link: https://www.youtube.com/watch?v=wE-DwqAnE0c
+https://www.youtube.com/watch?v=wE-DwqAnE0c
