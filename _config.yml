@@ -5,7 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
+repository: Swecha314/portfolio-fa25-fa25-portfolio-portfolios
+url: "https://Swecha314.github.io"
 # Site Settings
 locale                   : "en-US"
 title                    : Your Name
